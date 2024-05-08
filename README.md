@@ -5,7 +5,7 @@ The Synthetic Data Vault (SDV) is a Python library designed to be your one-stop 
 
 ## Highlights
 - **SINGLE TABLE DATA** - GaussianCopulaSynthesizer , CTGANSynthesizer , TVAESynthesizer.
-- **MULTI TABLE DATA** - DayZSynthesizer , HMASynthesizer.
+- **MULTI TABLE DATA** - DayZSynthesizer , HMASynthesizer, HSASynthesizer.
 - **SEQUENTIAL DATA**
 
 
